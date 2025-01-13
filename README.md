@@ -1,6 +1,6 @@
 # A Caesar Cipher Hacker
 
-A program can hack messages encrypted with the Caesar cipher.
+A program that can hack messages encrypted with the Caesar cipher.
 
 ## Description
 
